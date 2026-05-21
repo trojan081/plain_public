@@ -1,0 +1,833 @@
+domain,label,Source_File,Type,Layer,Text,true,pred
+Moscow,l2,output(1)_3_ДЖКХпр-23_02382tp.dxf,TEXT,Номер дома,1А,no_l2,Отметки высот
+Moscow,l2,output(1)_3_ДЖКХпр-23_02382tp.dxf,TEXT,Номер дома,31/22,no_l2,Отметки высот
+Moscow,l2,output(1)_3_ДЖКХпр-23_02382tp.dxf,TEXT,Номер дома,31/22,no_l2,Отметки высот
+Moscow,l2,output(1)_3_ДЖКХпр-23_02382tp.dxf,TEXT,Номер дома,58С.17,no_l2,Отметки высот
+Moscow,l2,output(1)_3_ДЖКХпр-23_02382tp.dxf,TEXT,Номер дома,31/22,no_l2,Отметки высот
+Moscow,l2,output(1)_3_ДЖКХпр-23_02382tp.dxf,TEXT,Номер дома,25/33,no_l2,Отметки высот
+Moscow,l2,output(1)_3_ДЖКХпр-23_02382tp.dxf,TEXT,Номер дома,25/33,no_l2,Отметки высот
+Moscow,l2,output(1)_3_ДЖКХпр-23_02382tp.dxf,TEXT,Номер дома,25/33,no_l2,Отметки высот
+Moscow,l2,output(1)_3_ДЖКХпр-23_02382tp.dxf,TEXT,Номер дома,31/22,no_l2,Отметки высот
+Moscow,l2,output(1)_3_ДЖКХпр-24_00868tp.dxf,TEXT,Леса и газоны,ЛИПА  3,Газон,Деревья
+Moscow,l2,output(1)_3_ДЖКХпр-24_00868tp.dxf,TEXT,Леса и газоны,РЯБИНА  4,Газон,Деревья
+Moscow,l2,output(1)_3_ДЖКХпр-24_00868tp.dxf,TEXT,Леса и газоны,КЛЕН  3,Газон,Деревья
+Moscow,l2,output(1)_3_ДКРпр-19_1_00083kl.dxf,TEXT,Красные линии,69.02,Координаты,Красная линия
+Moscow,l2,output(1)_3_ДКРпр-19_1_00083kl.dxf,TEXT,Красные линии,95.11,Координаты,Красная линия
+Moscow,l2,output(1)_3_ДКРпр-19_1_00083kl.dxf,TEXT,Красные линии,54.03,Координаты,Красная линия
+Moscow,l2,output(1)_3_ДКРпр-19_1_00083kl.dxf,TEXT,Красные линии,36.01,Координаты,Красная линия
+Moscow,l2,output(1)_3_ДКРпр-19_1_00083kl.dxf,TEXT,Красные линии,12.45,Координаты,Красная линия
+Moscow,l2,output(1)_3_ДКРпр-19_1_00083kl.dxf,TEXT,Красные линии,45.32,Координаты,Красная линия
+Moscow,l2,output(1)_3_ДКРпр-19_1_00083kl.dxf,TEXT,Красные линии,46.67,Координаты,Красная линия
+Moscow,l2,output(1)_3_ДКРпр-19_1_00083kl.dxf,TEXT,Красные линии,163.58,Координаты,Красная линия
+Moscow,l2,output(1-2)_3_ДЖКХпр-24_00875up.dxf,TEXT,Кабель электрический,183.48в.тр.,Электроснабжение,Горизонтали
+Moscow,l2,output(1-2)_3_ДЖКХпр-24_00875up.dxf,TEXT,Кабель связи,184.24в.тр.,Сети связи,Горизонтали
+Moscow,l2,output(1-2)_3_ДЖКХпр-24_00875up.dxf,TEXT,Кабель связи,183.79в.тр.,Сети связи,Горизонтали
+Moscow,l2,output(1-2)_3_ДЖКХпр-24_00875up.dxf,TEXT,Кабель связи,185.27в.тр.,Сети связи,Горизонтали
+Moscow,l2,output(1-2)_3_ДЖКХпр-24_00875up.dxf,TEXT,Кабель связи,184.79в.тр.,Сети связи,Горизонтали
+Moscow,l2,output(1-2)_3_ДЖКХпр-24_00875up.dxf,TEXT,Кабель связи,185.63в.тр.,Сети связи,Горизонтали
+Moscow,l2,output(1-2)_edge001(5).dxf,TEXT,0,проезд,Асфальт,no_l2
+Moscow,l2,output(1-2)_edge002.dxf,TEXT,0,18.01.24,Координаты,no_l2
+Moscow,l2,output(1-2)_edge002.dxf,TEXT,0,18.01.24,Координаты,no_l2
+Moscow,l2,output(1-2)_edge002.dxf,TEXT,0,18.01.24,Координаты,no_l2
+Moscow,l2,output(1-3)_3_3458ЖДС-21tp.dxf,TEXT,Железные дороги,164.50,Координаты,ЖД пути
+Moscow,l2,output(1-3)_3_3458ЖДС-21tp.dxf,TEXT,Граница улицы,УЛИЦА                       ДВИНЦЕВ,Бортовой камень,Асфальт
+Moscow,l2,output(1-3)_3_3458ЖДС-21tp.dxf,TEXT,Трубы,ТР,Прочие кабели,Прочие трубопроводы
+Moscow,l2,output(1-3)_3_3458ЖДС-21tp.dxf,TEXT,Фонтаны,АРОЧ.П.,Инженерная инфраструктура,Координаты
+Moscow,l2,output(1-3)_3_3458ЖДС-21tp.dxf,TEXT,Трубы,ТР,Прочие кабели,Прочие трубопроводы
+Moscow,l2,output(1-3)_3_3458ЖДС-21tp.dxf,TEXT,Фонтаны,АРОЧ.П.,Инженерная инфраструктура,Координаты
+Moscow,l2,output(1-3)_3_3458ЖДС-21tp.dxf,TEXT,Фонтаны,АРОЧ.П.,Инженерная инфраструктура,Координаты
+Moscow,l2,output(1-3)_3_3458ЖДС-21tp.dxf,TEXT,Граница улицы,УЛИЦА                       ДВИНЦЕВ,Бортовой камень,Асфальт
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Общий коллектор,176.75,Координаты,Инженерная инфраструктура
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Общий коллектор,176.75,Координаты,Инженерная инфраструктура
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Водосток,178.23,Координаты,Ливневая канализация
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Водосток,178.23,Координаты,Ливневая канализация
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Водосток,178.13,Координаты,Ливневая канализация
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Теплосеть,177.80,Координаты,Теплосеть
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Теплосеть,177.80,Координаты,Теплосеть
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Водосток,178.27,Координаты,Ливневая канализация
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Водосток,178.27,Координаты,Ливневая канализация
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Кабель связи,176.16,Координаты,Сети связи
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Кабель связи,176.60,Координаты,Сети связи
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Кабель связи,176.92,Координаты,Сети связи
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Кабели,177.54,Координаты,Прочие кабели
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Кабель связи,177.97,Координаты,Сети связи
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Кабель связи,178.29,Координаты,Сети связи
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Водосток,176.28,Координаты,Ливневая канализация
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Водосток,176.02,Координаты,Ливневая канализация
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Водосток,175.74,Координаты,Ливневая канализация
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Водосток,177.75,Координаты,Ливневая канализация
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Теплосеть,176.16,Координаты,Теплосеть
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Кабель связи,175.81,Координаты,Сети связи
+Moscow,l2,output(1-3)_3_ДЖКХпр-24_00880up.dxf,TEXT,Общий коллектор,Общий коллектор,Инженерная инфраструктура,no_l2
+Moscow,l2,output(1-3)_МКА-19_ЗАО_00044up.dxf,TEXT,Водосток,155.21,Координаты,Ливневая канализация
+Moscow,l2,output(1-4)_3_ДКР-19_1_00528up.dxf,TEXT,Канализация самотёчная,К,no_l2,Канализация бытовая
+Moscow,l2,output(1-4)_3_ДКР-19_1_00528up.dxf,TEXT,Общий коллектор,Общий коллектор,Инженерная инфраструктура,no_l2
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,197.97,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,283.16,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,50.87,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,35.00,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,35.12,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,22.51,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,44.98,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,50.00,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,50.00,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,111.44,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,23.00,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,23.00,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,13.00,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550kl.dxf,TEXT,Красные линии,60.00,Координаты,Красная линия
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550tp.dxf,TEXT,Граница улицы,УЛИЦА     ЦЮРУПЫ,Бортовой камень,Асфальт
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550tp.dxf,TEXT,Граница улицы,Ц РАЗР,Бортовой камень,Плитка
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550tp.dxf,TEXT,Номер дома,28Г,no_l2,Отметки высот
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550up.dxf,TEXT,Общий коллектор,Общий коллектор,Инженерная инфраструктура,no_l2
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550up.dxf,TEXT,Водосток,172.78,Координаты,Ливневая канализация
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550up.dxf,TEXT,Общий коллектор,общий коллектор d=3130,Инженерная инфраструктура,no_l2
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550up.dxf,TEXT,Канализация самотёчная,К,no_l2,Канализация бытовая
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550up.dxf,TEXT,Общий коллектор,общий коллектор,Инженерная инфраструктура,no_l2
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550up.dxf,TEXT,Водосток,181.17,Координаты,Ливневая канализация
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550up.dxf,TEXT,Общий коллектор,Общий коллектор 2500х3000,Инженерная инфраструктура,no_l2
+Moscow,l2,output(1-5)_3_ДКР-19_1_00550up.dxf,TEXT,Общий коллектор,Общий коллектор,Инженерная инфраструктура,no_l2
+Moscow,l2,output(1-5)_edge003(1).dxf,TEXT,0,29.01.24,Координаты,no_l2
+Moscow,l2,output(1-5)_edge003(1).dxf,TEXT,0,29.01.24,Координаты,no_l2
+Moscow,l2,output(1-5)_edge003(1).dxf,TEXT,0,29.01.24,Координаты,no_l2
+Moscow,l2,output(1-6)_3_ДЖКХпр-24_00859tp.dxf,TEXT,Береговая линия,120.30,Координаты,no_l2
+Moscow,l2,output(1-6)_3_ДЖКХпр-24_00859tp.dxf,TEXT,Горизонтали,125,Отметки высот,Координаты
+Moscow,l2,output(1-6)_3_ДЖКХпр-24_00859tp.dxf,TEXT,Береговая линия,120.15,Координаты,no_l2
+Moscow,l2,output(1-6)_3_ДЖКХпр-24_00859tp.dxf,TEXT,Номер дома,7 А,no_l2,Отметки высот
+Moscow,l2,output(1-6)_3_ДЖКХпр-24_00859tp.dxf,TEXT,Номер дома,7Б,no_l2,Отметки высот
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Колодцы,—,Инженерная инфраструктура,Координаты
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Геодезические пункты,153.96,Координаты,Отметки высот
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия, 147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80 ,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Береговая линия,147.80,Координаты,no_l2
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Номер дома,3A,no_l2,Отметки высот
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Номер дома,1А,no_l2,Отметки высот
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Граница площадки,161.92,Координаты,Бортовой камень
+Moscow,l2,output(1-6)_МКА-19_ВАО_00037tp.dxf,TEXT,Граница улицы,А СТР.,Бортовой камень,Асфальт
+Moscow,l2,output(1-9)_edge002(1).dxf,TEXT,0,Партизанская улица,no_l2,Бортовой камень
+Moscow,l2,output(2)_edge002(3).dxf,TEXT,0,.,no_l2,Отметки высот
+Moscow,l2,output(2)_edge002(3).dxf,TEXT,0,.,no_l2,Отметки высот
+Moscow,l2,output(2)_edge002(3).dxf,TEXT,0,.,no_l2,Отметки высот
+Moscow,l2,output(2)_edge002(3).dxf,TEXT,0,.,no_l2,Отметки высот
+Moscow,l2,output(2)_edge002(3).dxf,TEXT,0,.,no_l2,Отметки высот
+Moscow,l2,output(2)_edge002(3).dxf,TEXT,0,.,no_l2,Отметки высот
+Moscow,l2,output(2)_edge002(3).dxf,TEXT,0,.,no_l2,Отметки высот
+Moscow,l2,output(2)_edge002(3).dxf,TEXT,0,.,no_l2,Отметки высот
+Moscow,l2,output(2)_edge002(3).dxf,TEXT,0,.,no_l2,Отметки высот
+Moscow,l2,output(2)_edge002(3).dxf,TEXT,0,.,no_l2,Отметки высот
+Moscow,l2,output(2)_edge002(3).dxf,TEXT,0,.,no_l2,Отметки высот
+Moscow,l2,output(3-4)_3_ДЖКХпр-24_00854tp.dxf,TEXT,Части зданий,А РАЗР.,no_l2,Асфальт
+Moscow,l2,output(3-4)_3_ДЖКХпр-24_00854tp.dxf,TEXT,Номер дома,14 С.3,no_l2,Отметки высот
+Moscow,l2,output(5)_3_ДЖКХпр-24_00858pp.dxf,TEXT,Водосток проектный,160.98,Координаты,Ливневая канализация
+Moscow,l2,output(5)_3_ДЖКХпр-24_00858pp.dxf,TEXT,Водосток проектный,161.33,Координаты,Ливневая канализация
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания, Ж,no_l2,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Геодезические пункты,БН,Инженерная инфраструктура,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Геодезические пункты,157.56,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания, Ж,no_l2,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания, Ж,no_l2,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания, Ж,no_l2,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания,   РАЗР.,no_l2,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Пояснительные подписи,ДЕР.,Условные обозначения,Деревянный настил
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Части зданий,Ц РАЗР.,no_l2,Плитка
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Топографические объекты,909,Отметки высот,Инженерная инфраструктура
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Топографические объекты,911,Отметки высот,Инженерная инфраструктура
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.13,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.18,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,144.53,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,144.79,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,145.12,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,145.31,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.3,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.18,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА  3,Газон,Деревья
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,145.87,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,145.40,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.3,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,145.87,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Граница площадки,147.64,Координаты,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Граница площадки,149.35,Координаты,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Граница площадки,148.78,Координаты,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Граница площадки,148.87,Координаты,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Граница площадки,147.58,Координаты,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Топографические объекты,A-20-13-13,Инженерная инфраструктура,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.26,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,141.29,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.26,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,142.65,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,141.76,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,141.89,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Геодезические пункты,X=19650,Инженерная инфраструктура,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Геодезические пункты,Y=11500,Инженерная инфраструктура,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Пояснительные подписи,ДЕР.,Условные обозначения,Деревянный настил
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.26,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.3,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,144.71,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.33,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,144.68,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.3,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.33,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,142.98,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.33,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.26,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.3,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,143.38,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,144.39,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,   0.40,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,   0.40,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,   0.40,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,   0.40,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.16,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.23,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.28,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.34,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.23,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.23,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА  3,Газон,Деревья
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА  3,Газон,Деревья
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.34,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.34,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.34,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.34,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.34,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.34,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.34,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.34,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Номер дома,17К.1С.3,no_l2,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Номер дома,17 К.1С.4,no_l2,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Граница улицы,ШОССЕ,Асфальт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,135,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,135,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,134.31 Н.ТР,Горизонтали,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Лестницы набережных,РАЗР.,Лестницы,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,0.50,Координаты,Газон
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,0.50,Координаты,Газон
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,0.50,Координаты,Газон
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,0.50,Координаты,Газон
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания, Ж,no_l2,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания, 1-2,no_l2,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания, Ж,no_l2,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,0.50,Координаты,Газон
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,136.85,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,136.17,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,136.07,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,136.32,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,136.15,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.2,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.2,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.2,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,133.86,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,134.52,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,135,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,135,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,135,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,133.16,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,133.75,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.2,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,135,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,135,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,146.95В.ТР,Горизонтали,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево,БЕРЕЗА,Деревья,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево,КЛЕН,Деревья,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево,КЛЕН,Деревья,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево,БЕРЕЗА,Деревья,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,140,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево,БЕРЕЗА,Деревья,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Граница улицы,АЛЛЕЯ,Бортовой камень,Асфальт
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания,  РАЗР.,no_l2,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания, РАЗР,no_l2,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания, РАЗР.,no_l2,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Здания, РАЗР.,no_l2,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.22,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево, 15,Отметки высот,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево,0.25,Координаты,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево, 15,Отметки высот,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево,0.25,Координаты,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево, 20,Отметки высот,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево,0.20,Координаты,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево, 20,Отметки высот,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево,0.20,Координаты,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево, 15,Отметки высот,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево,0.25,Координаты,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево, 15,Отметки высот,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Отдельно стоящее дерево,0.25,Координаты,Дерево
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Топографические объекты,ВОРОТА,Инженерная инфраструктура,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Граница улицы,СОСНА,Деревья,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Пояснительные подписи,-2.0,Координаты,Условные обозначения
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Пояснительные подписи,-0.70,Координаты,Условные обозначения
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 10-12,Газон,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 10-12,Газон,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 10-12,Газон,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.15,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 10-12,Газон,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.15,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,0.15-0.25,Газон,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 10-12,Газон,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.34,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,   0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,   0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.10,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Геодезические пункты,ЛО248,Инженерная инфраструктура,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны,   0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Береговая линия,151.47,Координаты,no_l2
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_2_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Мосты,ДЕР.,no_l2,Деревянный настил
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,0.50,Координаты,Газон
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Пояснительные подписи,-0.5,Координаты,Условные обозначения
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА -0.3,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,КАНАВА -0.3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,156.53,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА -0.3,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,КАНАВА -0.3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА -0.3,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА -0.3,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Топографические объекты,БЫТОВКА,Инженерная инфраструктура,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.23,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.15,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,0.50,Координаты,Газон
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.3,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,146.02,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.24,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.28,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.3,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,147.86,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,147.09,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.17,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,148.65,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,149.70,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,0.50,Координаты,Газон
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,0.50,Координаты,Газон
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Здания, 4-5 ,no_l2,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Здания, Ж,no_l2,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Здания, Ж,no_l2,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Здания, 4-5 ,no_l2,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Топографические объекты,ЛИФТ,Инженерная инфраструктура,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Граница улицы,ЩЕПА,Бортовой камень,Щебень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Граница улицы,ЩЕПА,Бортовой камень,Щебень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Граница улицы,ЩЕПА,Бортовой камень,Щебень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Граница улицы,ЩЕПА,Бортовой камень,Щебень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Граница улицы,ЩЕПА,Бортовой камень,Щебень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Граница улицы,ГР,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Мосты,ДЕР.,no_l2,Деревянный настил
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,156.67,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Отдельно стоящее дерево,          13,Отметки высот,Дерево
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Отдельно стоящее дерево,         0.15,Координаты,Дерево
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,155.92,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,155.85,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,155.36,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.0,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.26,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,149.30,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,149.43,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Пояснительные подписи,ДЕР.,Условные обозначения,Деревянный настил
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,150.55,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Пояснительные подписи,ДЕР.,Условные обозначения,Деревянный настил
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,149.67,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,150.02,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,150.30,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,150.47,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.1,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.26,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,   0.22,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,   0.28,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,   0.22,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,   0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,   0.35,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,   0.35,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,   0.28,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,   0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,   0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,   0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.26,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.26,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА     3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА     3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА     3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА - 0.8,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-0.8,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.2,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА -0.3,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА -0.3,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА -0.3,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА -0.3,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,155.14,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,154.32,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,154.80,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,154.67,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.01,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.01,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,154.29,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Просеки в лесу,ПРОСЕКА,Грунт,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.2,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,КАНАВА-1.2,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,СОСНА   ——2,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,        0.19,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,СОСНА   ——2,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,        0.19,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.22,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.22,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.22,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.22,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.22,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.22,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.22,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,СОСНА   ——5,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,        0.28,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,СОСНА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,        0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,СОСНА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,        0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.22,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.25,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,СОСНА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,        0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА   ——4,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,         0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.3,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,148.35,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,146.36,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,149.05,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,149.23,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.3,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Трубы,ТР,Прочие кабели,Прочие трубопроводы
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,145.80,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,0.3,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Горизонтали,145,Отметки высот,Координаты
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Номер дома,29 СТР5,no_l2,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,БЕРЕЗА  3,Газон,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Здания, Ж,no_l2,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Здания, Ж,no_l2,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.40,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.21,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,152.23,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,152.95,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,153.80,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,154.52,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Пояснительные подписи,ГРУНТА,Условные обозначения,Грунт
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Пояснительные подписи,ГРУНТА,Условные обозначения,Грунт
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Отдельно стоящее дерево,СОСНА,Деревья,Дерево
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Отдельно стоящее дерево,ЛИПА,Деревья,Дерево
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Здания,    РАЗР.,no_l2,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 15-20,Газон,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,0.20-0.35,Газон,Координаты
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 15-20,Газон,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны,0.20-0.35,Газон,Координаты
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Граница улицы,156.22,Координаты,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Граница улицы,156.97,Координаты,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Граница улицы,156.09,Координаты,Бортовой камень
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.20,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,2.0В,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,155.90,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,2.0В,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,155.90,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,2.0В,no_l2,Деревья
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Береговая линия,155.90,Координаты,no_l2
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот
+Moscow,l2,x_los_part_3_tp.dxf,TEXT,Леса и газоны, 0.30,Координаты,Отметки высот

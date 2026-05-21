@@ -1,0 +1,5 @@
+src,dst,label,rows_kept,rows_total,coverage,macro_f1,weighted_f1,accuracy
+Moscow,Regions,l1,3069680,3069680,1.0,0.1379,0.0635,0.0704
+Regions,Moscow,l1,177470,180953,0.9808,0.343,0.1855,0.2088
+Moscow,Regions,l2,1354133,3069680,0.4411,0.3106,0.1652,0.1323
+Regions,Moscow,l2,44656,180953,0.2468,0.4999,0.6917,0.656
