@@ -2,6 +2,12 @@
 
 > **Live service:** <https://plain-project.ru/>
 
+<p align="center">
+  <a href="https://plain-project.ru/">
+    <img src="data/files/screenshots/service.jpg" alt="PLAIN landing page" width="90%"/>
+  </a>
+</p>
+
 PLAIN is a SaaS platform that automates the preparation of project documentation for urban planning, landscape architecture, and road infrastructure design. The service ingests source CAD drawings (DXF/DWG) and topographic surveys, recognises the semantic content of every drawing layer, and produces a complete set of derived documents — quantity takeoffs, existing-conditions plans, surface plans, vertical layouts, planting plans, urban-furniture plans, and specifications.
 
 This repository is the **public, research-facing portion** of the project: it contains the data taxonomy, exploratory notebooks, training experiments, and benchmarks for the machine-learning component that powers automatic layer recognition. The proprietary SaaS backend that performs CAD generation, the production frontend, and the integration with object storage and personal-data audit logging are kept in a separate private repository.
@@ -17,6 +23,10 @@ A typical PLAIN session looks like this:
 3. A fine-tuned NLP model assigns each entity a pair of semantic labels — a top-level category and a subcategory — drawn from a unified taxonomy (see [`data/CLASSES_STRUCTURE_EN.md`](data/CLASSES_STRUCTURE_EN.md)).
 4. Downstream geometric routines use those labels to compute surface areas, linear lengths of curbs and edges, intersection geometries between the existing and proposed layouts, and so on.
 5. The platform returns a complete set of drawings and tabular documents that would otherwise take engineering teams weeks to compile by hand.
+
+<p align="center">
+  <img src="data/files/screenshots/workflow.jpg" alt="PLAIN workflow diagram" width="90%"/>
+</p>
 
 PLAIN is operated by a private SaaS deployment at <https://plain-project.ru/> with user accounts, organisations, project versioning, and a 152-FZ-compliant audit log for personal data.
 
